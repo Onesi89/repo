@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "8c37457847c060f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c3d9e529408f0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75bffb76b3b79d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "검색창.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0204e3952d1851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정보/IT 지식을 알아보자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c9bc19fe0289386",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5199eda02f479c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca6f081986dd30c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a92eaed7427a7ad3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#테스트",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d4f938c1f7dc743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abbaa5613d99ba07",
+    "type": "split",
+    "children": [
+      {
+        "id": "228faef12b204185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75684d86f53ab6b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "정보/IT 지식을 알아보자.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fdca5bfce2772eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "정보/IT 지식을 알아보자.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f0bff245a45050b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef67b0efd5c28971",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "정보/IT 지식을 알아보자.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9a0204e3952d1851",
+  "lastOpenFiles": [
+    "README.md",
+    "repo/README.md",
+    "repo",
+    "무제 파일.canvas",
+    "2023-09-24.md",
+    "정보/IT 지식을 알아보자.md",
+    "정보/첨부파일/Pasted image 20230924222932.png",
+    "정보/첨부파일/Pasted image 20230924221527.png",
+    "무제 파일.md",
+    "검색창.md",
+    "정보/첨부파일",
+    "정보",
+    "프로젝트",
+    "Pasted image 20230924221240.png",
+    "Pasted image 20230924221234.png",
+    "프로젝트/사이드 프로젝트 가제.md"
+  ]
+}

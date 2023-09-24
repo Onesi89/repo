@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "updated": "datetime",
+    "created": "datetime",
+    "date": "date",
+    "사용여부": "checkbox",
+    "작성일자": "datetime",
+    "수정일자": "datetime"
+  }
+}
